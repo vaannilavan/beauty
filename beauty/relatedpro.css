@@ -1,0 +1,18 @@
+#related-projects {
+    background: #e9ecef;
+}
+
+.project {
+    margin: 20px 0;
+}
+
+.project h3 {
+    margin-bottom: 10px;
+}
+
+.project .images img {
+    width: 100px;
+    height: 100px;
+    margin: 5px;
+    object-fit: cover;
+}

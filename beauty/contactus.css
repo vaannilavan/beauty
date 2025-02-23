@@ -1,0 +1,14 @@
+#contact {
+    background: #f8f9fa;
+    padding: 20px;
+}
+
+#contact p {
+    margin: 10px 0;
+}
+
+#contact a img {
+    width: 24px;
+    height: 24px;
+    margin: 0 10px;
+}

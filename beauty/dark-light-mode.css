@@ -1,0 +1,29 @@
+body.dark-mode {
+    background-color: #333;
+    color: #fff;
+}
+
+header {
+    background: #222;
+    border-bottom: 1px solid #444;
+}
+
+header nav a {
+    color: #fff;
+}
+
+.btn {
+    background: #555;
+}
+
+.btn:hover {
+    background: #777;
+}
+
+#about, #related-projects, #contact {
+    background: #444;
+}
+
+.project h3 {
+    color: #fff;
+}
